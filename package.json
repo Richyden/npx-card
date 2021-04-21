@@ -1,0 +1,31 @@
+{
+  "name": "@richyden/richy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "richy": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richyden/npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richyden/npx-card/issues"
+  },
+  "homepage": "https://github.com/Richyden/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "cfonts": "^2.9.1",
+    "chalk": "^4.1.1",
+    "got": "^11.8.2",
+    "ora": "^5.4.0",
+    "terminal-image": "^1.2.1",
+    "terminal-link": "^3.0.0"
+  }
+}
